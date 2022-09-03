@@ -19,7 +19,7 @@
   font-weight: 900;
 }
 
-.box {
+.box-container-1 div{
   height: 20rem;
   background-color: blue;
   border-radius: 10px;
